@@ -1,0 +1,14 @@
+{
+  "name": "skeleton",
+  "description": "HTTP services and admin console",
+  "logo": "http://yuilibrary.com/img/yui-logo.png",
+  "options": {
+    "linkNatives": "true",
+    "attributesEmit": "false",
+    "paths": [
+      "./"
+    ],
+    "exclude": "public,config,test,views,node_modules",
+    "outdir": "./docs"
+  }
+}

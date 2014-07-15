@@ -1,0 +1,40 @@
+10
+
+dir
+8
+https://subversion.assembla.com/svn/bluecanarydashboard/trunk/src/public/packages/adminflare
+https://subversion.assembla.com/svn/bluecanarydashboard
+
+
+
+2013-08-16T04:48:29.295809Z
+7
+shekhar.v
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+61a578e9-aedf-45a0-acce-c29d29d44a85
+
+css
+dir
+
+fonts
+dir
+
+images
+dir
+
+javascripts
+dir
+

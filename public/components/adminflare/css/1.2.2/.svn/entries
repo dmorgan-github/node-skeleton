@@ -1,0 +1,129 @@
+10
+
+dir
+8
+https://subversion.assembla.com/svn/bluecanarydashboard/trunk/src/public/packages/adminflare/css/1.2.2
+https://subversion.assembla.com/svn/bluecanarydashboard
+
+
+
+2013-08-16T04:48:29.295809Z
+7
+shekhar.v
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+61a578e9-aedf-45a0-acce-c29d29d44a85
+
+black-blue
+dir
+
+black-cyan
+dir
+
+black-green
+dir
+
+black-orange
+dir
+
+black-pink
+dir
+
+black-red
+dir
+
+cyan
+dir
+
+default
+dir
+
+green
+dir
+
+orange
+dir
+
+pages.css
+file
+
+
+
+
+2013-08-09T02:32:51.000000Z
+f6b9ef912b080eb44accd06ab8a5ee70
+2013-08-09T00:27:59.184213Z
+2
+shekhar.v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9740
+
+pages.min.css
+file
+
+
+
+
+2013-08-09T02:32:51.000000Z
+242d8642ff3f61cdca2d9b32f38bb8e4
+2013-08-09T00:27:59.184213Z
+2
+shekhar.v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8120
+
+red
+dir
+

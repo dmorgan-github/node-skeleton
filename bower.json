@@ -1,0 +1,20 @@
+{
+  "name": "node-template",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "~1.2.15",
+    "angular-bootstrap": "~0.10.0",
+    "angular-route": "~1.2.15",
+    "bootstrap": "~3.1.1",
+    "jquery": "~2.1.0",
+    "log": "~0.1.2",
+    "underscore": "~1.6.0",
+    "angular-grid": "2.0.7",
+    "angular-growl": "~0.4.0",
+    "momentjs": "~2.6.0"
+  },
+  "resolutions": {
+    "angular": "~1.2.15",
+    "jquery": "~2.1.0"
+  }
+}

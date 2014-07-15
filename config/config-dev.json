@@ -1,0 +1,5 @@
+{
+	"PORT": 3000,
+	"mongoUri": "mongodb://docket_svc:Password1@ds029107.mongolab.com:29107/docket",
+	"serverRoot": "http://localhost:3000"
+}
